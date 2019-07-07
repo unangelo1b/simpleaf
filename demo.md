@@ -5,3 +5,5 @@ This is the second line!
 And this is the final line.
 
 Another fourth line. This is it.
+
+This is the stash example.
